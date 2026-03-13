@@ -120,16 +120,16 @@ git hist
 
 Example output:
 
-```
+
 \* 0801a36 (HEAD -> main, origin/main) Add README documentation
 
 | \* 46e66d7 (origin/recovered-work, recovered-work) Add lost work
 
 |/
 
-\* 923f84c (tag: v1.0) Initial project setup and file updates```
+\* 923f84c (tag: v1.0) Initial project setup and file updates
 
-\---
+
 
 ### Step 9 — Tag the Cleaned Version as `v1.0`
 
